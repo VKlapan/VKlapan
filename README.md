@@ -7,5 +7,6 @@
 ## ⚡ Skills:
 - TypeScript
 - Node.js
+- NestJS
 - NextJS
 - TailwindCss
