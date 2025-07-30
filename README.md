@@ -6,7 +6,11 @@
 
 ## ⚡ Skills:
 - TypeScript
-- Node.js
+- NodeJS
 - NestJS
 - NextJS
+- React
+- Stately.ai
 - TailwindCss
+- Playwright
+- Electron
